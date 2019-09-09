@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.fa5416eaf18d71c0d94c47db7aec1698.js"
+  "precache-manifest.e73ce2505eacdde2a1aa4f6f7ac52bd0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "cloud"});
